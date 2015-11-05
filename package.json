@@ -1,0 +1,15 @@
+{
+  "name": "thats_heavy",
+  "version": "0.0.1",
+  "description": "Why are things so heavy in the future? Is there a problem with the Earth's gravitational pull?",
+  "author": "Kostas <i@oranger.me>",
+  "license": "LICENSE-WTFPL",
+  "preferGlobal": true,
+  "bin": {
+    "thatsheavy": "bin/thatsheavy.js"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {}
+}
